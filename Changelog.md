@@ -79,7 +79,6 @@
 
 And their dependencies.
 
-
 # 0.0.1.2
 
 Fix exception when the root of a reshare of a reshare got deleted [#3546](https://github.com/diaspora/diaspora/issues/3546)
