@@ -80,6 +80,7 @@ module Diaspora
       templates.js
       validation.js
 
+      404.css
       blueprint.css
       bootstrap.css
       bootstrap-complete.css
@@ -90,6 +91,8 @@ module Diaspora
       mobile.css
       new-templates.css
       rtl.css
+      
+      404.html
     }
 
     # Version of your assets, change this if you want to expire all your assets
